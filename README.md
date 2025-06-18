@@ -5,8 +5,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer who loves turning ideas into working software.  
-With a growing interest in **AI/ML**, clean backend systems, and open source, I'm always eager to explore the *"why"* behind the code and use tech to build something meaningful.
+“The future belongs to those who believe in the beauty of their dreams.”
+I’m a curious developer driven by the dream to build impactful software.
+Passionate about backend systems, AI/ML, and open source — I explore, learn, and create with purpose and possibility.
 
 ---
 
@@ -47,13 +48,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabith-code&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
