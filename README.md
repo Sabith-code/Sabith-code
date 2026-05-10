@@ -1,56 +1,12 @@
-<h1 align="center">Hey there 👋, I'm Muhammed Sabith</h1>
+<h1 align="center">Hi, I'm Muhammed Sabith 👋</h1>
 
 
 
-<h3 align="center">
-
-  AI/ML Engineer • Full-Stack Developer • Hackathon Winner
-
-</h3>
+<p align="center"><b>CS Undergrad @ Presidency University Bengaluru &nbsp;|&nbsp; AI/ML & Full-Stack Developer &nbsp;|&nbsp; Hackathon Winner</b></p>
 
 
 
-<p align="center">
-
-  <b>Computer Science Undergraduate @ Presidency University Bengaluru</b>
-
-</p>
-
-
-
-<p align="center">
-
-  <a href="mailto:muhammedsabith221b@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-  </a>
-
-  
-
-  <a href="https://linkedin.com/in/md-sabith">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-  </a>
-
-  
-
-  <a href="https://leetcode.com/u/Sabith-code/">
-
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-
-  </a>
-
-  
-
-  <a href="https://github.com/Sabith-code">
-
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-  </a>
-
-</p>
+<p align="center"><a href="mailto:muhammedsabith221b@gmail.com">📧 muhammedsabith221b@gmail.com</a> &nbsp;|&nbsp; +91 9019504388 &nbsp;|&nbsp; <a href="https://linkedin.com/in/md-sabith">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/Sabith-code">🐙 GitHub</a> &nbsp;|&nbsp; <a href="https://leetcode.com/u/Sabith-code/">💡 LeetCode</a></p>
 
 
 
@@ -58,39 +14,21 @@
 
 
 
-# 🚀 About Me
+## 🧠 About Me
 
 
 
-I'm a third-year Computer Science student passionate about building:
+I'm a third-year Computer Science student who builds AI-powered systems, privacy tools, and developer productivity solutions. I enjoy working at the intersection of **NLP, LLMs, and full-stack engineering** — turning complex problems into clean, working products.
 
 
 
-- 🤖 AI-powered systems  
+- 🥇 Won the **Build with TRAE AI Hackathon** (300+ participants) with FORD, an automated feedback-to-code pipeline
 
-- 🔐 Privacy-first developer tools  
+- 🌍 Built **StyloAI** as a startup prototype at **ITMO University's DU Labs Summer School**, Russia
 
-- ⚡ Intelligent automation platforms  
+- 🔬 Currently exploring **Edge AI**, **on-device LLMs**, and **agentic systems using MCP**
 
-- 🌐 Full-stack applications with real-world impact  
-
-
-
-I enjoy working at the intersection of **LLMs, NLP, agentic systems, and scalable software engineering** — transforming complex ideas into polished products.
-
-
-
-### Currently Exploring
-
-- 🧠 Edge AI & on-device LLMs
-
-- 🔗 MCP (Model Context Protocol)
-
-- ⚙️ AI Agents & Tool-Calling Systems
-
-- 📦 Distributed AI workflows
-
-- 🛠️ Developer productivity automation
+- 💬 Ask me about: AI agents, NLP pipelines, Chrome extensions, FastAPI, or hackathon strategy
 
 
 
@@ -98,65 +36,25 @@ I enjoy working at the intersection of **LLMs, NLP, agentic systems, and scalabl
 
 
 
-# 🏆 Achievements
+## 🏆 Highlights
 
 
 
-| 🏅 Achievement | 📍 Event |
+| Achievement | Event |
 
 |---|---|
 
-| 🥇 **1st Place** | Build with TRAE AI Hackathon — Presidency University *(300+ participants)* |
+| 🥇 **1st Place** | Build with TRAE AI Hackathon, Presidency University (300+ participants) |
 
-| 🥈 **Runner-up** | Build a Game — InnovateX 4.0 |
+| 🥈 **Runner-up** | "Build a Game" — InnovateX 4.0, Presidency University |
 
-| 🥈 **Runner-up** | Code and Solve — IEEE Tech Week |
+| 🥈 **Runner-up** | "Code and Solve" — IEEE Tech Week |
 
-| 🎯 **Top 40 Nationally** | 36-Hour National Hackathon — SJEC Mangalore *(2100+ teams)* |
+| 🎯 **Top 40 Nationally** | 36-hour Hackathon, St. Joseph Engineering College, Mangalore (2,100+ teams) |
 
-| 🔗 **Selected Fellow** | Keploy API Fellowship 2025 |
+| 🔗 **Selected** | Keploy API Fellowship, Cohort 2025 |
 
-| ⛓️ **ICP Mainnet Deployment** | Blockchain Developer Workshop — IIIT Bangalore |
-
-
-
----
-
-
-
-# 💡 Featured Projects
-
-
-
-## 🔄 FORD — Automated Feedback-to-Code AI Pipeline
-
-> 🥇 Winning Project — Build with TRAE AI Hackathon
-
-
-
-An end-to-end AI system that converts unstructured social media feedback into validated code fixes and pull requests.
-
-
-
-### Key Features
-
-- Semantic issue clustering using **pgvector embeddings**
-
-- Test-first AI code generation pipeline
-
-- Sandboxed CI validation before PR creation
-
-- MCP-powered secure AI agent integrations
-
-- Human-in-the-loop approval workflow
-
-
-
-### Tech Stack
-
-`Python` `Flask` `Next.js` `PostgreSQL` `pgvector`
-
-`Docker` `Redis` `Celery` `GitHub Actions`
+| ⛓️ **Deployed on ICP Mainnet** | Blockchain Developer Workshop, IIIT Bangalore |
 
 
 
@@ -164,69 +62,31 @@ An end-to-end AI system that converts unstructured social media feedback into va
 
 
 
-## 🔐 PII Shield — Real-Time Privacy Protection Extension
+## 🚀 Featured Projects
 
 
 
-AI-powered Chrome extension that detects and redacts Personally Identifiable Information in real time.
+### 🔄 [FORD – Automated Feedback-to-Code AI Pipeline](https://github.com/Sabith-code)
+
+> **🥇 1st Place — Build with TRAE AI Hackathon**
 
 
 
-### Highlights
-
-- Regex + NLP-based hybrid PII detection
-
-- OCR support using **Tesseract.js**
-
-- Real-time DOM scanning with MutationObserver
-
-- Fully client-side privacy architecture
+An end-to-end AI system that converts unstructured social media feedback into CI-validated code fixes and pull requests — closing the loop between users and engineering teams.
 
 
 
-### Tech Stack
+- **NLP semantic clustering** with pgvector embeddings to group and prioritize issues by engagement signals
 
-`JavaScript` `NLP` `Regex`
+- **Test-first code generation** framework with sandboxed CI execution before any PR is raised
 
-`Tesseract.js` `WebAssembly`
+- **MCP (Model Context Protocol)** for secure AI-agent interaction with GitHub, file systems, and CI pipelines
 
-`Chrome Extension APIs`
-
-
-
----
+- **Human-in-the-loop** review system + closed feedback loop notifying users when their issue is resolved
 
 
 
-## 🥗 StyloAI — AI Personal Stylist
-
-> DU Labs Summer School Capstone — ITMO University, Russia
-
-
-
-A voice-enabled AI stylist that generates personalized outfit recommendations based on wardrobe, body type, weather, and preferences.
-
-
-
-### Features
-
-- Speech-to-text + text-to-speech pipeline
-
-- Smart wardrobe management
-
-- AI-based recommendation engine
-
-- Startup prototype pitched internationally
-
-
-
-### Tech Stack
-
-`React` `Next.js` `FastAPI`
-
-`Firebase` `Cloudinary`
-
-`TypeScript` `Tailwind CSS`
+`Python` `Flask` `Next.js` `PostgreSQL` `pgvector` `MCP` `Docker` `GitHub Actions` `Redis` `Celery`
 
 
 
@@ -234,31 +94,25 @@ A voice-enabled AI stylist that generates personalized outfit recommendations ba
 
 
 
-## 📱 Edge AI Agent using Gemma
+### 🔐 [PII Shield – Real-Time Privacy Protection Chrome Extension](https://github.com/Sabith-code)
 
 
 
-A privacy-preserving on-device AI agent running locally without cloud dependency.
+A hybrid AI-powered browser extension that detects and redacts Personally Identifiable Information in real time across web pages and images.
 
 
 
-### Highlights
+- **Dual-layer detection**: Regex (Aadhaar, PAN, credit cards, emails) + NLP-based NER — F1 > 0.94 for structured PII
 
-- ONNX-optimized Gemma inference
+- **OCR via Tesseract.js** (WebAssembly) to detect PII embedded inside images
 
-- Context compression for edge devices
+- **DOM MutationObserver** pipeline for real-time scanning of dynamically loaded content
 
-- Multi-turn tool-augmented interactions
+- Fully **client-side** — zero data transmitted to external servers
 
 
 
-### Tech Stack
-
-`Gemma LLM` `ONNX`
-
-`Python` `JavaScript`
-
-`Edge AI`
+`JavaScript` `NLP` `Regex` `Tesseract.js` `WebAssembly` `Chrome Extension API` `DOM APIs`
 
 
 
@@ -266,31 +120,25 @@ A privacy-preserving on-device AI agent running locally without cloud dependency
 
 
 
-## 🔍 Automated Crime Intelligence System
+### 🎨 [StyloAI – AI-Powered Personal Stylist](https://github.com/Sabith-code)
+
+> **DU Labs Summer School Capstone — ITMO University, Russia**
 
 
 
-Deep learning + NLP pipeline for extracting entities and identifying hidden crime patterns from police reports.
+A voice-enabled AI stylist that delivers personalized outfit recommendations based on skin tone, body type, wardrobe inventory, weather, and cultural preferences.
 
 
 
-### Features
+- Full **speech-to-text & text-to-speech** voice interaction pipeline
 
-- spaCy-based entity extraction
+- **Wardrobe management** with image upload, categorization, and context-aware outfit suggestions
 
-- SOM + AGNES clustering
-
-- High-accuracy MLP classification pipeline
+- Shipped as a **startup prototype**, pitched to global industry experts and mentors
 
 
 
-### Tech Stack
-
-`Python` `spaCy`
-
-`MLP` `AGNES`
-
-`Self-Organizing Maps`
+`React` `Next.js` `FastAPI` `Firebase` `Cloudinary` `Voice AI` `TypeScript` `Tailwind CSS`
 
 
 
@@ -298,53 +146,23 @@ Deep learning + NLP pipeline for extracting entities and identifying hidden crim
 
 
 
-# 🛠️ Tech Stack
+### 📱 [Edge AI Agent using Gemma – On-Device LLM](https://github.com/Sabith-code)
 
 
 
-## Languages
-
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+A privacy-preserving AI agent running entirely on-device on mobile hardware, with no cloud dependency.
 
 
 
-## Frameworks & Tools
+- **ONNX-optimized** Gemma LLM inference for 8GB RAM mobile environments
 
-`React` `Next.js` `FastAPI` `Flask`
+- Context compression pipeline for limited memory/token constraints on edge devices
 
-`Docker` `GitHub Actions`
-
-
-
-## AI / ML
-
-`LLMs` `NLP` `NER`
-
-`Gemma` `Gemini API`
-
-`spaCy` `Tesseract.js`
-
-`Edge AI`
+- Tool-augmented multi-turn conversations with local device resources
 
 
 
-## Databases
-
-`PostgreSQL` `MongoDB`
-
-`MySQL` `Firebase`
-
-`Supabase` `Redis`
-
-
-
-## Other Technologies
-
-`MCP (Model Context Protocol)`
-
-`WebAssembly`
-
-`Chrome Extension APIs`
+`Gemma LLM` `ONNX` `Edge AI` `Python` `JavaScript` `Mobile Runtime`
 
 
 
@@ -352,13 +170,61 @@ Deep learning + NLP pipeline for extracting entities and identifying hidden crim
 
 
 
-# 📜 Certifications
+### 🔍 [Automated Crime Intelligence System](https://github.com/Sabith-code)
+
+
+
+An NLP + deep learning pipeline that extracts entities from unstructured police reports and identifies hidden patterns across crime cases.
+
+
+
+- **spaCy NER** for entity extraction (suspects, locations, weapons, dates)
+
+- **SOM + AGNES clustering** to discover hidden crime groupings
+
+- **MLP classifier** achieving 100% accuracy, precision, recall, and F1-score
+
+
+
+`Python` `spaCy` `MLP Neural Network` `Self-Organizing Maps` `AGNES`
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+
+
+```
+
+Languages    →  Python  |  Java  |  JavaScript  |  SQL  |  HTML  |  CSS
+
+Frameworks   →  React  |  Next.js  |  FastAPI  |  Flask  |  Docker  |  GitHub Actions
+
+AI / ML      →  NLP  |  NER  |  LLMs  |  Edge AI  |  Gemma  |  Gemini API  |  spaCy  |  Tesseract.js
+
+Databases    →  PostgreSQL  |  MongoDB  |  MySQL  |  Firebase  |  Supabase (pgvector)  |  Redis
+
+Other        →  MCP (Model Context Protocol)  |  WebAssembly  |  Chrome Extension API
+
+```
+
+
+
+---
+
+
+
+## 📜 Certifications
 
 
 
 - 🎓 **Harvard University** — CS50P: Introduction to Programming with Python
 
-- 🌍 **ITMO University, Russia** — DU Labs Summer School *(AI-driven startups & innovation ecosystems)*
+- 🌍 **DU Labs Summer School** — ITMO University, Russia *(AI-driven startups & global innovation ecosystems)*
 
 
 
@@ -366,48 +232,4 @@ Deep learning + NLP pipeline for extracting entities and identifying hidden crim
 
 
 
-# 📊 GitHub Analytics
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabith-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabith-code&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-
-
----
-
-
-
-# 🌟 Philosophy
-
-
-
-<p align="center">
-
-  <i>
-
-    "Build meaningful things. Ship fast. Learn continuously."
-
-  </i>
-
-</p>
-
-
-
----
-
-
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Sabith-code&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
+<p align="center"><i>"Build things that matter. Ship them. Learn. Repeat."</i></p>
